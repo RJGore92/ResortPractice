@@ -11,8 +11,12 @@ h2
   font-style: italic;
 }
 
+h4 {
+  color: midnightblue;
+}
+
 a:link {
-  color: mediumaquamarine;
+  color: lightseagreen;
 }
 
 a:visited {
@@ -20,10 +24,26 @@ a:visited {
 }
 
 a:hover{
-  color: forestgreen;
+  color: navy;
   text-decoration: underline;
 }'
 
 a:active {
+  color: steelblue;
+}
 
+p{
+  color: forestgreen;
+}
+
+ul {
+  color: dodgerblue;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 18px;
+
+}
+
+body {
+  background-color: silver;
 }
